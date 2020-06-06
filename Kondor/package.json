@@ -1,0 +1,16 @@
+{
+  "name": "kondor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "bootstrap-scss": "^4.5.0"
+  },
+  "scripts": {
+    "watch:sass": "node-sass scss/custom.scss css/bootstrap.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
